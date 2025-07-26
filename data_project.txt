@@ -1,0 +1,8 @@
+P01|Java,Figma,Leadership|4|WebApp|not_started
+P02|Python,Leadership,SQL|4|AI|not_started
+P03|JavaScript,React,Figma|3|Frontend|not_started
+P04|Python,HTML,CSS,ProjectManagement|4|DataWeb|not_started
+P05|Java,C++,MongoDB|4|BackendService|not_started
+P06|UIUX,NodeJS,React|4|MobileApp|not_started
+P07|PHP,Laravel,SQL|3|BackendCMS|not_started
+P08|Kotlin,AndroidDev,UXResearch|4|MobileUX|not_started
